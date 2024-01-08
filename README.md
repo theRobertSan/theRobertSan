@@ -8,8 +8,9 @@
 </div>
 
 ### :man_dancing: About me
-Hey! I'm Robert
+Hey, I'm Robert!
 - I'm pursuing a Computer Science & Engineering Master's degree with a specialization in Software Engineering;
+- I was a Software Development Engineer Intern at Amazon, and worked in the Global Transportation Services Team;
 - I'm interested in everything tech. Always ready to learn more!
 - Love to design & build software that makes a difference
 
